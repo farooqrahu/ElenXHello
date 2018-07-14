@@ -1,4 +1,4 @@
-package com.javainuse.controllers;
+package com.springbelluu.springboothelloworld;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
